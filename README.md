@@ -19,7 +19,7 @@ $ python Main.py
 
 ## Main.pyがやってること。
 各課の本文の音声のみをcontents/honbunフォルダに移動、    
-各課の文法例文の音声をcontents/Liフォルダ(iは、0<i<23の整数)に移動。他削除。
+各課の文法例文の音声、各フォルダから取り出してrenameをしてcontents/Liフォルダ(iは、0<i<23の整数)に移動。他削除。
 
 ## なんか、timeoutとか、エラーがでたら。
 とりあえずcontentsフォルダ削除して、もっかい
