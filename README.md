@@ -6,6 +6,12 @@
 ## とりあえず使い方。
 
 入ってなかったら、Pythonをいれる。
+クローンする。
+
+```
+$ git clone https://github.com/YU-NN/DownloadChineseTrack
+
+```
 
 ```
 $ cd [this project dir]
