@@ -26,7 +26,10 @@ $ python 1st_CheckTest.py
 ## Main.pyがやってること。
 各課の本文の音声のみをcontents/honbunフォルダに移動、    
 各課の文法例文の音声、各フォルダから取り出してrenameをしてcontents/HonbunAndBunpou/L{i}/に移動。<br>
-他削除。(iは、0<i<23の整数)
+他削除。(iは、0<i<23)
+
+## 1st_CheckTest.pyがやってること
+contents/1stCheckTest/に課題例文をダウンロード。
 
 ## なんか、timeoutとか、エラーがでたら。
 とりあえずcontents/HonbunAndBunpouフォルダ削除して、もっかい
