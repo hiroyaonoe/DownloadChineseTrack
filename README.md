@@ -20,7 +20,7 @@ $ cd [this project dir]
 ```
 $ source venv/bin/activate
 ```
-で、仮想環境venvを有効化。<br>
+で、仮想環境[venv](https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e)を有効化。<br>
 で、全課の音声ファイルだったら、
 ```
 $ python Main.py
