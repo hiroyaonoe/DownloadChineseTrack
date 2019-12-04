@@ -16,10 +16,17 @@ $ git clone https://github.com/YU-NN/DownloadChineseTrack
 ```
 $ cd [this project dir]
 ```
-で、プロジェクトディレクトリに移動。
+で、プロジェクトディレクトリに移動。<br><br>
+(Macの場合)
 ```
 $ source venv/bin/activate
 ```
+(Windowsの場合)
+```
+.\winvenv\Scripts\activate.bat
+```
+
+
 で、仮想環境[venv](https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e)を有効化。<br>
 で、全課の音声ファイルだったら、
 ```
